@@ -12,7 +12,7 @@ HTML (Hypertext Markup Language) is the basic language that websites are built i
 
 ![View Source](https://web-dev-readme-photos.s3.amazonaws.com/js/web-is-html-view-source.png)
 
-That might look a little overwhelming right now, but don’t worry—it will get clearer as we go on. All you need to pay attention to right now is the fact that we can use HTML to create the essential structure all of our webpages.
+That might look a little overwhelming right now, but don’t worry—it will get clearer as we go on. All you need to pay attention to right now is the fact that we can use HTML to create the essential structure of all of our webpages.
 
 We mentioned above that HTML is a __markup__ language. That means it tells the browser how to display information. For example, it says when a piece of text is a paragraph, or a link. Later, we’ll also meet a __styling__ language and then a __programming__ language. They all do something slightly different with data, but they also work together to make the web.
 
